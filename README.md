@@ -11,6 +11,6 @@ https://raevpa.github.io/infovis2021/mom2021w36.html
   #Clase 02:
    </p>
    <p>&nbsp;
-  The World's Largest Solar Power Plants by  by Raquel--->
+  The World's Largest Solar Power Plants by Raquel--->
   Tableu https://raevpa.github.io/infovis2021/mom2021w37.html
  </p>
