@@ -1,2 +1,13 @@
 Stacked Graphs
 visual encodings
+Small Multiples
+Horizon Graphs
+Parallel Coordinates
+cartographic projection
+Dorling cartogram
+phylogenetic trees
+Adjacency Diagrams
+circle-packing layout
+Force-directed Layouts
+arc diagram
+adjacency matrix
