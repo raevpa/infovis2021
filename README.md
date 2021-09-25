@@ -18,6 +18,6 @@ https://raevpa.github.io/infovis2021/mom2021w36.html
   #Clase 03:
    </p>
    <p>&nbsp;
- Dark Web Price Index 2021
-  flourish: https://raevpa.github.io/infovis2021/mom2021W38.html
+ Dark Web Price Index 2021 by Raquel --->
+  flourish https://raevpa.github.io/infovis2021/mom2021W38.html
  </p>
